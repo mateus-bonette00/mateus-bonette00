@@ -2,7 +2,7 @@
 Estudante de Ciência da Computação na Universidade Federal de Itajubá. Sou um estudante comprometido e motivado em busca de crescimento pessoal e profissional. Ao longo da minha jornada acadêmica, tenho demonstrado dedicação e vontade de aprender, buscando constantemente novos desafios para expandir meu conhecimento. Minha curiosidade e sede de conhecimento me levaram a explorar diversas áreas dentro da tecnologia computacional. Sou comunicativo, comprometido, estudioso, proativo, e determinado. Gosto muito de aprender e gosto muito de novos desafios.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mateus.bonette.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-bonette/) 
 
 # 💻 Tech Stack:
