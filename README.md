@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Estudante de Ciência da Computação na Universidade Federal de Itajubá. Sou um estudante comprometido e motivado em busca de crescimento pessoal e profissional. Ao longo da minha jornada acadêmica, tenho demonstrado dedicação e vontade de aprender, buscando constantemente novos desafios para expandir meu conhecimento. Minha curiosidade e sede de conhecimento me levaram a explorar diversas áreas dentro da tecnologia computacional. Sou comunicativo, comprometido, estudioso, proativo, e determinado. Gosto muito de aprender e gosto muito de novos desafios.
+Estudante de Ciência da Computação na Universidade Federal de Itajubá. Sou um estudante comprometido e motivado em busca de crescimento pessoal e profissional. Ao longo da minha jornada acadêmica, tenho demonstrado dedicação e vontade de aprender, buscando constantemente novos desafios para expandir meu conhecimento. Minha curiosidade e sede de conhecimento me levaram a explorar diversas áreas dentro da tecnologia computacional. Sou comunicativo, comprometido, estudioso, proativo, e determinado. Gosto muito de aprender e de novos desafios.
 
 
 ## 🌐 Redes Sociais:
