@@ -17,7 +17,7 @@ Sou uma pessoa proativa, dedicada e apaixonada por aprender e crescer profission
 ## Projetos:
 Lista de projetos:
 * **Projeto Web Clínica Médica:** https://bit.ly/43pUr3l 
-* **Panorama do COVID-19 no Brasil:** https://bit.ly/3TqylZR
+* **Panorama do COVID-19 no Brasil:** https://bit.ly/3TL6THu
 * **Projeto de POO2 com Django (ItaCar):** https://bit.ly/3VoC24Z
 
 ## Redes Sociais:
