@@ -4,7 +4,6 @@
   <img src="capa_github.png" >
 </p>
 
-## Sobre Mim:
 Estudante de Ciência da Computação na Universidade Federal de Itajubá.
 
 Ao longo da minha jornada acadêmica, tenho me envolvido em projetos desafiadores e enriquecedores. Fui membro da empresa júnior Byron.solutions, onde atuei como Gerente de Vendas, Desenvolvedor Front-end, Design UX e Product Owner. Essa experiência me permitiu aprimorar minhas habilidades em negociação, atendimento ao cliente, utilização de metodologias ágeis em gerenciamento de projetos como o Scrum, habilidades em design de projetos utilizando o Figma e habilidades em desenvolvimento web, utilizando tecnologias como HTML, CSS, Javascript, e outras, como Python e Django.
