@@ -1,5 +1,15 @@
 # 💫 Sobre Mim:
-Estudante do 6º período de Ciência da Computação na Universidade Federal de Itajubá. Sou um estudante comprometido e motivado em busca de crescimento pessoal e profissional. Ao longo da minha jornada acadêmica, tenho demonstrado dedicação e vontade de aprender, buscando constantemente novos desafios para expandir meu conhecimento. Minha curiosidade e sede de conhecimento me levaram a explorar diversas áreas dentro da tecnologia computacional. Sou comunicativo, comprometido, estudioso, proativo, e determinado. Gosto muito de aprender e de novos desafios.
+Estudante de Ciência da Computação na Universidade Federal de Itajubá.
+
+Ao longo da minha jornada acadêmica, tenho me envolvido em projetos desafiadores e enriquecedores. Fui membro da empresa júnior Byron.solutions, onde atuei como Gerente de Vendas, Desenvolvedor Front-end, Design UX e Product Owner. Essa experiência me permitiu aprimorar minhas habilidades em negociação, atendimento ao cliente, utilização de metodologias ágeis em gerenciamento de projetos como o Scrum, habilidades em design de projetos utilizando o Figma e habilidades em desenvolvimento web, utilizando tecnologias como HTML, CSS, Javascript, e outras, como Python e Django.
+
+Também fui professor em um projeto voluntário chamado CAAI - Curso Assistencial Amigos de Itajubá, onde atuei como Professor de Interpretação de Texto e Atualidades. Essa experiência me permitiu aprimorar minhas habilidades de comunicação, organização, planejamento, didática e liderança.
+
+Atualmente, venho estudando por meio de cursos online preparatórios para Data Science, como o curso Data Science na Prática - Sigmoidal do Professor Carlos Melo. Estou adquirindo habilidades em Python e suas bibliotecas importantes para projetos de Data Science, habilidades em Machine Learning e também habilidades em Storytelling.
+
+Estou aberto a novas oportunidades e parcerias que me permitam aplicar meu conhecimento e experiência.
+
+Sou uma pessoa proativa, dedicada e apaixonada por aprender e crescer profissionalmente. Busco constantemente novos desafios que me permitam aplicar minha criatividade e conhecimentos técnicos para impulsionar o sucesso dos projetos em que estou envolvido. Sou ágil, comunicativo e estou sempre em busca de soluções inovadoras e eficientes.
 
 
 ## 🌐 Redes Sociais:
