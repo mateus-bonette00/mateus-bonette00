@@ -22,7 +22,7 @@ Lista de projetos:
 
 ## Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mateus.bonette.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-bonette/) 
-[![GitLab](https://img.shields.io/badge/GitLab-000000?style=flat&logo=gitlab)](https://gitlab.com/seu-usuario)
+[![GitLab](https://img.shields.io/badge/GitLab-000000?style=flat&logo=gitlab)](https://gitlab.com/mateus-bonette00)
 
 
 ## Tech Stack:
