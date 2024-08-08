@@ -8,7 +8,7 @@ Ao longo da minha jornada acadêmica, tenho me envolvido em projetos desafiadore
 
 Também fui professor em um projeto voluntário chamado CAAI - Curso Assistencial Amigos de Itajubá, onde atuei como Professor de Interpretação de Texto e Atualidades. Essa experiência me permitiu aprimorar minhas habilidades de comunicação, organização, planejamento, didática e liderança.
 
-Atualmente, venho estudando por meio de cursos online preparatórios para Data Science, como o curso Data Science na Prática - Sigmoidal do Professor Carlos Melo. Estou adquirindo habilidades em Python e suas bibliotecas importantes para projetos de Data Science, habilidades em Machine Learning e também habilidades em Storytelling.
+Atualmente, venho estudando por meio de cursos online preparatórios para Data Science, como o curso Data Science na Prática - Sigmoidal do Professor Carlos Melo. Estou adquirindo habilidades em Python e suas bibliotecas importantes para projetos de Data Science, habilidades em Machine Learning e também habilidades em Storytelling. Além disso, estou estagiando como desenvolvedor front-end na empresa Moontech, onde tenho aprimorado minhas habilidades em Angular e JavaScript. Tenho experiência em projetos utilizando Express.js e Ionic, e estou constantemente buscando me aprimorar como desenvolvedor full stack. Também sou um entusiasta de novas tecnologias e sempre estou em busca de desafios que me permitam crescer profissionalmente.
 
 Estou aberto a novas oportunidades e parcerias que me permitam aplicar meu conhecimento e experiência.
 
