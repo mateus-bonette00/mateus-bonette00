@@ -17,6 +17,7 @@ Lista de projetos:
 * **Projeto Web Clínica Médica:** https://bit.ly/43pUr3l 
 * **Panorama do COVID-19 no Brasil:** https://bit.ly/3TL6THu
 * **Projeto de POO2 com Django (ItaCar):** https://bit.ly/3VoC24Z
+* **Aplicativo TecHouse:** https://github.com/mateus-bonette00/aplicativo_techouse
 
 ## Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mateus.bonette.7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-bonette/) 
