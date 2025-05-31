@@ -4,7 +4,7 @@
 
 Estudante de Ciência da Computação na Universidade Federal de Itajubá, com formação prévia em Engenharia Agrícola. Tenho uma trajetória marcada por experiências multidisciplinares que envolvem tecnologia, negócios, ensino e comunicação.
 
-Atuei em diferentes frentes, desde a área comercial — como Gerente de Vendas, Product Owner e consultor em empresas júnior — até o desenvolvimento de soluções digitais, utilizando tecnologias como Angular, Flutter, JavaScript, Python, HTML, CSS e ferramentas como Figma, Trello e Git. Tenho experiência com metodologias ágeis (Scrum), design centrado no usuário (UX/UI), análise de dados e visualizações com Python e Power BI.
+Atuei em diferentes frentes, desde a área comercial — como Gerente de Vendas, Product Owner e consultor em empresas júnior — até o desenvolvimento de soluções digitais, utilizando tecnologias como Angular, Flutter, JavaScript, Python, HTML, CSS e ferramentas como Figma, Trello e Git. Tenho experiência com metodologias ágeis (Scrum), design centrado no usuário (UX/UI), análise de dados e visualizações com Python e Streamlit.
 
 Também exerci a docência como professor voluntário, desenvolvendo competências em liderança, oratória, planejamento e didática. Isso ampliou minha capacidade de comunicação e trabalho em equipe, habilidades que levo comigo para todos os projetos nos quais atuo.
 
