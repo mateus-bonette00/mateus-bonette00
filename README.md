@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-profile-cover.jpg" alt="Capa do perfil de Mateus Bonette" width="100%" />
+  <img src="github-profile-cover.png" alt="Capa do perfil de Mateus Bonette" width="100%" />
 </p>
 
 <h1 align="center">Mateus Bonette</h1>
