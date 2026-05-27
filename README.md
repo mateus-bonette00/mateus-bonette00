@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="github-profile-cover.png" alt="Capa do perfil de Mateus Bonette" width="100%" />
+  <img src="github-profile-cover-2.png" alt="Capa do perfil de Mateus Bonette" width="100%" />
 </p>
 
 <h1 align="center">Mateus Bonette</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software Full Stack | IA Aplicada | Produto | Automação e Soluções Digitais</strong>
+  <strong>DESENVOLVEDOR FULL STACK | PYTHON | REACT | ANGULAR | NODE.JS | IA APLICADA | AUTOMAÇÃO</strong>
 </p>
 
 <p align="center">
