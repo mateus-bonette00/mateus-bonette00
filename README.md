@@ -173,8 +173,8 @@ Problema real → Contexto do usuário → Regra de negócio → Arquitetura sim
 ## Métricas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateus-bonette00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-bonette00&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateus-bonette00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&hide=stars,prs,issues&custom_title=Atividade%20no%20GitHub" alt="GitHub activity" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-bonette00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Tecnologias%20mais%20usadas" alt="Top languages" />
 </p>
 
 ---
