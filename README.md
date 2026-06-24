@@ -1,6 +1,6 @@
 <h1 align="center">Mateus Bonette</h1>
 
-### Applied AI Engineer | LLMs, RAG, Agents, Python, FastAPI & Full Stack AI Applications
+<h3 align="center"> Applied AI Engineer | LLMs, RAG, Agents, Python, FastAPI & Full Stack AI Applications </h3>
 
 **RAG • LLMs • LangGraph • LangChain • Prompt Engineering • Embeddings • Langfuse • MCP • FastAPI • Python • Angular • PostgreSQL/pgvector**
 
