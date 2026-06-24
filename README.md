@@ -5,7 +5,7 @@
 <h1 align="center">Mateus Bonette</h1>
 
 <h3 align="center">
-  Engenheiro de IA Aplicada • Desenvolvedor Full Stack • Automação • Produto • Dados
+ Applied AI Engineer | LLMs, RAG, Agents, Python, FastAPI & Full Stack AI Applications
 </h3>
 
 <p align="center">
