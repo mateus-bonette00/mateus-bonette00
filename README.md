@@ -11,12 +11,11 @@
   <a href="https://www.linkedin.com/in/mateus-bonette/"><strong>LinkedIn</strong></a>
 </p>
 
-<p align="center">
 ![Focus](https://img.shields.io/badge/Focus-Applied_AI-0A84FF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-LLM_Applications-6D5DFC?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-LangGraph_&_LangChain-20C997?style=for-the-badge)
 ![AI Observability](https://img.shields.io/badge/AI_Observability-Langfuse-FFB020?style=for-the-badge)
-</p>
+
 ---
 
 ## About me
