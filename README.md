@@ -2,9 +2,14 @@
 
 <h3 align="center"> Applied AI Engineer | LLMs, RAG, Agents, Python, FastAPI & Full Stack AI Applications </h3>
 
-**RAG • LLMs • LangGraph • LangChain • Prompt Engineering • Embeddings • Langfuse • MCP • FastAPI • Python • Angular • PostgreSQL/pgvector**
+<p align="center">
+<strong>RAG • LLMs • LangGraph • LangChain • Prompt Engineering • Embeddings • Langfuse • MCP • FastAPI • Python • Angular • PostgreSQL/pgvector</strong>
+</p>
 
-[Portfolio](https://www.mateusbonette.com.br) · [LinkedIn](https://www.linkedin.com/in/mateus-bonette)
+<p align="center">
+  <a href="https://www.mateusbonette.com.br"><strong>Portfolio</strong></a> ·
+  <a href="https://www.linkedin.com/in/mateus-bonette/"><strong>LinkedIn</strong></a>
+</p>
 
 ![Focus](https://img.shields.io/badge/Focus-Applied_AI-0A84FF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-LLM_Applications-6D5DFC?style=for-the-badge)
