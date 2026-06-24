@@ -188,4 +188,11 @@ I'm an **Applied AI Engineer** and **Full Stack Developer** with a strong produc
 
 My current focus is building **Full Stack AI Applications** with practical architecture, reliable workflows, observability, cost awareness and real operational impact.
 
-[Visit my portfolio](https://www.mateusbonette.com.br) · [LinkedIn](https://www.linkedin.com/in/mateus-bonette)
+<p align="center">
+  <a href="https://www.mateusbonette.com.br">
+    <img src="https://img.shields.io/badge/Visit_my_portfolio-1E6BFF?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-bonette/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
