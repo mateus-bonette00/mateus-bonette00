@@ -25,16 +25,15 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Sou formado em **Ciência da Computação pela Universidade Federal de Itajubá (UNIFEI)** e atuo com **desenvolvimento full stack, IA aplicada, automações, dados, produto e soluções digitais**.
+I'm an Applied AI Engineer and Full Stack Developer focused on building practical AI systems with LLMs, RAG, agents, APIs, automation workflows and data-driven applications.
 
-Meu foco atual é construir sistemas que resolvem problemas reais usando **RAG, LLMs, agentes de IA, LangGraph, LangChain, FastAPI, APIs, bancos de dados e interfaces web modernas**.
+My work combines software engineering, generative AI, backend development, data systems and product thinking to transform manual processes into scalable and useful solutions.
 
-Antes de programar profissionalmente, atuei com **vendas, marketing, área comercial e contato direto com clientes**. Essa vivência me ajuda a entender dores reais, comunicar valor com clareza e construir soluções úteis para o usuário e para o negócio.
+Currently, I work with Python, FastAPI, LangChain, LangGraph, PostgreSQL/pgvector, Docker, Angular, Next.js, APIs and LLM providers such as OpenAI, Claude and Gemini.
 
-> Gosto de transformar tarefas manuais, processos repetitivos e problemas complexos em sistemas simples, inteligentes e bem estruturados.
-
+I enjoy building systems that connect AI with real business operations: CRM automation, internal tools, dashboards, RAG pipelines, WhatsApp bots, API integrations and decision-support applications.
 ---
 
 ## Posicionamento
