@@ -130,12 +130,12 @@ I enjoy building systems that connect AI with real business operations: CRM auto
 
 | Project | Description | Stack / Area | Link |
 |---|---|---|---|
-| **OpenClaw / AI Agents Platform** | Platform with AI agents, automation workflows, LLMs, RAG and intelligent flows applied to digital operations. | Applied AI, RAG, LLMs, Agents, Automation | In progress |
+| **OpenClaw / AI Agents Platform** | Platform with AI agents, automation workflows, LLMs, RAG and intelligent flows applied to digital operations. | Applied AI, RAG, LLMs, Agents, Automation | [View repository](https://github.com/mateus-bonette00/config-open-claw) |
 | **FBA Automation** | Full stack automation system designed to reduce manual work in supplier analysis, product research and business routines. | React, FastAPI, Python, Playwright, PostgreSQL, Docker | [View repository](https://github.com/mateus-bonette00/fba-automation) |
 | **CoinSight TCC** | Undergraduate thesis project focused on cryptocurrency price analysis and prediction using data, news and external factors. | Python, Streamlit, PostgreSQL, ML, Data Analysis | [View repository](https://github.com/mateus-bonette00/coinsight_tcc) |
 | **Qota Finance** | Financial dashboard for tracking and analyzing transactions, orders and operational integrations. | React, Node.js, TypeScript, APIs, Dashboards | Private repository |
 | **Mateus Bonette Portfolio** | Personal website with projects, experience, technologies and professional positioning. | Portfolio, Product, Frontend | [View portfolio](https://www.mateusbonette.com.br) |
-| **FamilyMoney** | Full stack financial system for organizing income, expenses, accounts and financial overview. | Angular, Node.js, PostgreSQL, Pluggy | Project in progress |
+| **FamilyMoney** | Full stack financial system for organizing income, expenses, accounts and financial overview. | Angular, Node.js, PostgreSQL, Pluggy | [View repository](https://github.com/mateus-bonette00/family-money) |
 | **Medical Clinic Web Project** | Web system for a medical clinic, focused on organization, interface and service flow. | Web, Frontend, UX | [View repository](https://github.com/mateus-bonette00/ProjetoWeb_ClinicaMedica) |
 | **COVID-19 Brazil Overview** | Data analysis and visualization project about COVID-19 in Brazil. | Python, Pandas, Matplotlib | [View repository](https://github.com/mateus-bonette00/Panorama-do-COVID-19-no-Brasil) |
 
