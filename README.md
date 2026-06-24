@@ -34,6 +34,7 @@ My work combines software engineering, generative AI, backend development, data 
 Currently, I work with Python, FastAPI, LangChain, LangGraph, PostgreSQL/pgvector, Docker, Angular, Next.js, APIs and LLM providers such as OpenAI, Claude and Gemini.
 
 I enjoy building systems that connect AI with real business operations: CRM automation, internal tools, dashboards, RAG pipelines, WhatsApp bots, API integrations and decision-support applications.
+
 ---
 
 ## Posicionamento
